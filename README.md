@@ -1,3 +1,3 @@
 # Pocket Calculator
  This is my first project.
-auther - Ali haider
+author - Ali haider
